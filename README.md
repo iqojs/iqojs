@@ -26,3 +26,5 @@
  <a href="https://discord.com/users/1015845680067133480">
  <img src="https://lanyard-profile-readme.vercel.app/api/1015845680067133480"></a>
 </div>
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=6a8e1uyfu9cxv6wwjn4r2w0h5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
