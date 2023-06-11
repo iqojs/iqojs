@@ -1,7 +1,7 @@
 <div align="center">
  <h1>Hello There 👋</h1> 
 
- - I have been working programing with 2 years.
+ - I have been working programing with 3 years.
  - I am high school student.
  - My favorite language is JavaScript.
 
