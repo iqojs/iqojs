@@ -27,7 +27,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iqojs&theme=transparent" />
   </a>
   <a href="https://github.com/iqojs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqojs&theme=transparent"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqojs&hide_border=true&card_width=338&&theme=transparent"/>
   </a>
 </p>
 </details>
