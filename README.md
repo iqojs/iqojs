@@ -17,13 +17,13 @@
 <h1> :gem: Github Stats / My achievements </h1>
 <details>
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/iqojs">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqojs&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/iqojs">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqojs&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/iqojs">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iqojs&theme=transparent" />
   </a>
   <a href="https://github.com/iqojs">
