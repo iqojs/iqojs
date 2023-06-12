@@ -19,7 +19,22 @@
 </a>
 
 <h1> :gem: My achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=iqojs&theme=onedark" />
+<details>
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqojs&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqojs&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iqojs&theme=transparent" />
+  </a>
+  <a href="https://github.com/iqojs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqojs&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
 
 <div align="center">
 <h2>Discord</h2>
