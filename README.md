@@ -13,12 +13,8 @@
 </div>
 
 <div align="center">
- <h2>Github Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=iqojs&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqojs&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
-</a>
 
-<h1> :gem: My achievements </h1>
+<h1> :gem: Github Stats/ My achievements </h1>
 <details>
 <p align="center">
   <a href="https://github.com/wervlad">
