@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<h1> :gem: Github Stats/ My achievements </h1>
+<h1> :gem: Github Stats / My achievements </h1>
 <details>
 <p align="center">
   <a href="https://github.com/wervlad">
