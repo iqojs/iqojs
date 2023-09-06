@@ -9,7 +9,7 @@
 
 <div align="center">
  <h2>✍ Languages and Tools</h2>
- <img src="https://skillicons.dev/icons?i=css,sass,html,ts,js,tailwindcss,mongodb,discord,redis,mysql,sqlite,git,cloudflare,github,nodejs,vscode,express,cpp,react,aws,vite" />
+ <img src="https://skillicons.dev/icons?i=html,ts,js,mongodb,discord,git,cloudflare,github,nodejs,vscode,react" />
 </div>
 
 <div align="center">
